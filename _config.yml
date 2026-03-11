@@ -1,3 +1,18 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Site Identity
+title: Z Consulting
+tagline: Precision Systems Engineering & Architecture
+description: Professional consulting services for complex systems lifecycle management, MBSE, and V&V.
+
+# Navigation & Features
+# show_downloads: true  # Set to true to show "Download .zip" buttons for the repo
+# google_analytics: [UA-XXXXXXXXX-X] # Replace with your ID to track traffic
+
+# Footer & Social (Optional)
+# If your theme supports these via the footer or sidebar
+github:
+  is_project_page: true
+  repository_url: https://github.com/d-diaz-z/z-consulting
